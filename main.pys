@@ -1,6 +1,13 @@
-if 2 < 5:
+if 2 < 5
+{
     print("GOOD")
-else:
+}
+else
+{
     print("NO")
+}
 
-a: i64 = "Hi"  
+
+a: i64 = 1 + 3
+
+print(a.value)
